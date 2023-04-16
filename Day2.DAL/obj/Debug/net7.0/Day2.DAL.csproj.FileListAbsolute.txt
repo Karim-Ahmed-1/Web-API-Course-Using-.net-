@@ -1,0 +1,14 @@
+G:\iti\ASP Web API\Tasks\Day2.DAL\bin\Debug\net7.0\Day2.DAL.deps.json
+G:\iti\ASP Web API\Tasks\Day2.DAL\bin\Debug\net7.0\Day2.DAL.runtimeconfig.json
+G:\iti\ASP Web API\Tasks\Day2.DAL\bin\Debug\net7.0\Day2.DAL.dll
+G:\iti\ASP Web API\Tasks\Day2.DAL\bin\Debug\net7.0\Day2.DAL.pdb
+G:\iti\ASP Web API\Tasks\Day2.DAL\obj\Debug\net7.0\Day2.DAL.csproj.AssemblyReference.cache
+G:\iti\ASP Web API\Tasks\Day2.DAL\obj\Debug\net7.0\Day2.DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\iti\ASP Web API\Tasks\Day2.DAL\obj\Debug\net7.0\Day2.DAL.AssemblyInfoInputs.cache
+G:\iti\ASP Web API\Tasks\Day2.DAL\obj\Debug\net7.0\Day2.DAL.AssemblyInfo.cs
+G:\iti\ASP Web API\Tasks\Day2.DAL\obj\Debug\net7.0\Day2.DAL.csproj.CoreCompileInputs.cache
+G:\iti\ASP Web API\Tasks\Day2.DAL\obj\Debug\net7.0\Day2.DAL.dll
+G:\iti\ASP Web API\Tasks\Day2.DAL\obj\Debug\net7.0\refint\Day2.DAL.dll
+G:\iti\ASP Web API\Tasks\Day2.DAL\obj\Debug\net7.0\Day2.DAL.pdb
+G:\iti\ASP Web API\Tasks\Day2.DAL\obj\Debug\net7.0\Day2.DAL.genruntimeconfig.cache
+G:\iti\ASP Web API\Tasks\Day2.DAL\obj\Debug\net7.0\ref\Day2.DAL.dll

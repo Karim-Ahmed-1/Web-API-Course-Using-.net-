@@ -1,0 +1,80 @@
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\appsettings.Development.json
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\appsettings.json
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Day 2.exe
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Day 2.deps.json
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Day 2.runtimeconfig.json
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Day 2.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Day 2.pdb
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Azure.Core.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Azure.Identity.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Humanizer.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\System.CodeDom.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\System.Memory.Data.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Day2.BL.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Day2.DAL.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Day2.BL.pdb
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Day2.DAL.pdb
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\Day 2.csproj.AssemblyReference.cache
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\Day 2.GeneratedMSBuildEditorConfig.editorconfig
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\Day 2.AssemblyInfoInputs.cache
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\Day 2.AssemblyInfo.cs
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\Day 2.csproj.CoreCompileInputs.cache
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\Day 2.MvcApplicationPartsAssemblyInfo.cs
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\Day 2.MvcApplicationPartsAssemblyInfo.cache
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\staticwebassets\msbuild.Day 2.Microsoft.AspNetCore.StaticWebAssets.props
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\staticwebassets\msbuild.build.Day 2.props
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Day 2.props
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Day 2.props
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\staticwebassets.pack.json
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\staticwebassets.build.json
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\staticwebassets.development.json
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\scopedcss\bundle\Day 2.styles.css
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\Day 2.csproj.CopyComplete
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\Day 2.dll
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\refint\Day 2.dll
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\Day 2.pdb
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\Day 2.genruntimeconfig.cache
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\ref\Day 2.dll

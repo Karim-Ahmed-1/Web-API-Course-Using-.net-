@@ -1,4 +1,7 @@
 
+using Day2.DAL;
+using Microsoft.EntityFrameworkCore;
+
 namespace Day_2
 {
     public class Program
@@ -7,12 +10,22 @@ namespace Day_2
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            #region Default
             // Add services to the container.
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            #endregion
+
+            #region Database
+
+            var connectionString = builder.Configuration.GetConnectionString("APItask");
+            builder.Services.AddDbContext<CompanyContext>(
+                options => options.UseSqlServer(connectionString));
+
+            #endregion
 
             var app = builder.Build();
 
