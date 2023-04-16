@@ -1,0 +1,33 @@
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\appsettings.Development.json
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\appsettings.json
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Day 2.exe
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Day 2.deps.json
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Day 2.runtimeconfig.json
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Day 2.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Day 2.pdb
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\iti\ASP Web API\Tasks\Day 2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\Day 2.csproj.AssemblyReference.cache
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\Day 2.GeneratedMSBuildEditorConfig.editorconfig
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\Day 2.AssemblyInfoInputs.cache
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\Day 2.AssemblyInfo.cs
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\Day 2.csproj.CoreCompileInputs.cache
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\Day 2.MvcApplicationPartsAssemblyInfo.cs
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\Day 2.MvcApplicationPartsAssemblyInfo.cache
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\staticwebassets\msbuild.Day 2.Microsoft.AspNetCore.StaticWebAssets.props
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\staticwebassets\msbuild.build.Day 2.props
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Day 2.props
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Day 2.props
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\staticwebassets.pack.json
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\staticwebassets.build.json
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\staticwebassets.development.json
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\scopedcss\bundle\Day 2.styles.css
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\Day 2.csproj.CopyComplete
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\Day 2.dll
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\refint\Day 2.dll
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\Day 2.pdb
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\Day 2.genruntimeconfig.cache
+G:\iti\ASP Web API\Tasks\Day 2\obj\Debug\net7.0\ref\Day 2.dll
