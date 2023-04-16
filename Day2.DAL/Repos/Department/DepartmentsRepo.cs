@@ -14,12 +14,12 @@ public class DepartmentsRepo : IDepartmentsRepo
 
     public void Add(Department entity)
     {
-        _context.Add(entity);
+        _context.Set<Department>().Add(entity);
     }
 
     public void Delete(Department entity)
     {
-        _context.Remove(entity);
+        _context.Set<Department>().Remove(entity);
     }
 
     public IEnumerable<Department> GetAll()
