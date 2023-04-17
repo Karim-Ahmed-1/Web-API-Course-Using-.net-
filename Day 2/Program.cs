@@ -1,4 +1,5 @@
 
+using Day2.BL;
 using Day2.DAL;
 using Microsoft.EntityFrameworkCore;
 
@@ -31,7 +32,12 @@ namespace Day_2
 
             builder.Services.AddScoped<ITicketsRepo, TicketsRepo>();
             builder.Services.AddScoped<IDepartmentsRepo, DepartmentsRepo>();
-            
+
+
+            #endregion
+            #region Managers
+
+            builder.Services.AddScoped<IDepartmentManager, DepartmentManger>();
 
             #endregion
 

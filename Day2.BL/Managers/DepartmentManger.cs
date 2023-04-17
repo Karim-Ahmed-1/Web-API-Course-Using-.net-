@@ -12,6 +12,7 @@ public class DepartmentManger : IDepartmentManager
     {
         _departmentRepo = departmentsRepo;
     }
+
     public DepartmentDetailReadDbo? GetDetail(int id)
     {
         Department? DepartmentFromDB= _departmentRepo.GetWithTicketsAndDevelopersById(id);
