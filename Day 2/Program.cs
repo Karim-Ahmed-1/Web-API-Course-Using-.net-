@@ -35,9 +35,12 @@ namespace Day_2
 
 
             #endregion
+
             #region Managers
 
             builder.Services.AddScoped<IDepartmentManager, DepartmentManger>();
+            builder.Services.AddScoped<ITicketManager, TicketManager>();
+            
 
             #endregion
 
