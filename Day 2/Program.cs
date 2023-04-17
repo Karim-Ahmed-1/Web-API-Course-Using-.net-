@@ -27,6 +27,14 @@ namespace Day_2
 
             #endregion
 
+            #region Repos
+
+            builder.Services.AddScoped<ITicketsRepo, TicketsRepo>();
+            builder.Services.AddScoped<IDepartmentsRepo, DepartmentsRepo>();
+            
+
+            #endregion
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

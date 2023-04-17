@@ -11,6 +11,6 @@ public interface ITicketsRepo
     void AddTicket(Ticket entity);
     void Update(Ticket entity);
     void Delete(Ticket entity);
-    void SaveChanges(Ticket  entity);
+    void SaveChanges(  );
 }
 

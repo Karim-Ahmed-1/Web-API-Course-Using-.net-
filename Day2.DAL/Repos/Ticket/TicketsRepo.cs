@@ -30,7 +30,7 @@ public class TicketsRepo : ITicketsRepo
         return _context.Set<Ticket>();
     }
 
-    public void SaveChanges(Ticket entity)
+    public void SaveChanges( )
     {
         _context.SaveChanges();
     }
