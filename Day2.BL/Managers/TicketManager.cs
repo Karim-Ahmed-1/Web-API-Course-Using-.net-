@@ -31,7 +31,7 @@ public class TicketManager : ITicketManager
             Id = t.Id,
             Description = t.Description
         }
-        ) ;
+        ).ToList() ;
        
     }
 
