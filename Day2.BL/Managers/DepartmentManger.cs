@@ -31,5 +31,13 @@ public class DepartmentManger : IDepartmentManager
                 DevelopersCount = Ticket.Developers.Count
             }).ToList()
         };
+
+
+    }
+
+
+    public List<Department> Getall()
+    {
+        return _departmentRepo.GetAll();
     }
 }

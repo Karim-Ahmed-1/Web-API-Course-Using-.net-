@@ -1,4 +1,5 @@
 ﻿using Day2.BL;
+using Day2.DAL;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
@@ -16,11 +17,8 @@ namespace Day_2.Controllers
             _ticketmanager = ticketManager;
         }
 
-        [HttpGet]
-        public ActionResult GetAll()
-        {
-            
-            
-        }
+     //   [HttpGet]
+        //public ActionResult<IEnumerable<Ticket>>? GetAll() => _ticketmanager.Getall();
+
     }
 }

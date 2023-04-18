@@ -1,4 +1,5 @@
 ﻿using Day2.BL;
+using Day2.DAL;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -22,6 +23,12 @@ namespace Day_2.Controllers
             DepartmentDetailReadDbo? departmentWithDetails =_DepartmentManager.GetDetail(id);
             if(departmentWithDetails == null) { return NotFound(); }
             return departmentWithDetails;
+        }
+        [HttpGet]
+        public ActionResult<List<Department>> getall()
+        {
+            var deps = _DepartmentManager.Getall();
+            return deps;
         }
     }
 }

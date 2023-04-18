@@ -22,9 +22,9 @@ public class DepartmentsRepo : IDepartmentsRepo
         _context.Set<Department>().Remove(entity);
     }
 
-    public IEnumerable<Department> GetAll()
+    public List<Department> GetAll()
     {
-        return _context.Set<Department>();
+        return _context.Set<Department>().ToList();
     }
 
     public IEnumerable<Department> GetAllAsReadOnly()

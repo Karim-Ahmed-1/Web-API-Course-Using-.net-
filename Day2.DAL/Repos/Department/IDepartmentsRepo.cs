@@ -5,7 +5,7 @@ namespace Day2.DAL;
 
 public interface IDepartmentsRepo
 {
-    IEnumerable<Department> GetAll();
+    List<Department> GetAll();
     IEnumerable<Department> GetAllAsReadOnly();
     Department? GetById(int id);
     void Add(Department entity);
