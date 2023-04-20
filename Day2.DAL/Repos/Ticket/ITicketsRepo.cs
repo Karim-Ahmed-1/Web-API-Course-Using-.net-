@@ -4,7 +4,7 @@ namespace Day2.DAL;
 
 public interface ITicketsRepo
 {
-    IEnumerable<Ticket> GetTickets();
+    List<Ticket> GetTickets();
 
     Ticket? GetByID(int id);
 

@@ -25,9 +25,9 @@ public class TicketsRepo : ITicketsRepo
         return _context.Set<Ticket>().Find(id);
     }
 
-    public IEnumerable<Ticket> GetTickets()
+    public List<Ticket> GetTickets()
     {
-        return _context.Set<Ticket>();
+        return _context.Set<Ticket>().ToList();
     }
 
     public void SaveChanges( )

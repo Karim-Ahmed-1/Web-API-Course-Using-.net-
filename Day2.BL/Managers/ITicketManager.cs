@@ -5,7 +5,7 @@ using Day2.DAL;
 namespace Day2.BL; 
 public interface ITicketManager
 {
-    IEnumerable<Ticket>? Getall();
+    List<Ticket> Getall();
     void AddTicket(Ticket entity);
     Ticket? GetByID(int id);
     void Update(Ticket entity);

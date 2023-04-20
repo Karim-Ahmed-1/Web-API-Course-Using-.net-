@@ -22,18 +22,13 @@ public class TicketManager : ITicketManager
         _TicketsRepo.Delete(entity);
     }
 
-    public IEnumerable<Ticket>? Getall()
+    public List<Ticket> Getall()
     {
-        IEnumerable<Ticket> TicketsFromDB = _TicketsRepo.GetTickets();
+       var TicketsFromDB = _TicketsRepo.GetTickets();
 
         return TicketsFromDB;
 
-        //return TicketsFromDB.Select(t => new TicketReadDto()
-        //{
-        //    Id = t.Id,
-        //    Description = t.Description
-        //}
-        //).ToList() ;
+        
        
     }
 

@@ -17,8 +17,50 @@ namespace Day_2.Controllers
             _ticketmanager = ticketManager;
         }
 
-     //   [HttpGet]
-        //public ActionResult<IEnumerable<Ticket>>? GetAll() => _ticketmanager.Getall();
+        [HttpGet]
+        public ActionResult<List<Ticket>> getall()
+        {
+            var tickets = _ticketmanager.Getall();
+            return tickets;
+        }
 
+        [HttpGet]
+        [Route("{id}")]
+        public ActionResult<Ticket?> GetById(int id)
+        {
+            var ticket = _ticketmanager.GetByID(id);
+            return ticket;
+        }
+
+        [HttpPost]
+        public ActionResult Delete(Ticket entity)
+        {
+            _ticketmanager.Delete(entity);
+            _ticketmanager.SaveChanges();
+            return NoContent();
+        }
+
+        [HttpPut]
+        public ActionResult Update(Ticket entity)
+        {
+            if (entity == null) { return BadRequest(); }
+            var TicketToEdit = _ticketmanager.GetByID(entity.Id);
+            if (TicketToEdit == null) { return NotFound(); }
+            TicketToEdit.Title = entity.Title;
+            TicketToEdit.Description = entity.Title;
+            TicketToEdit.department = entity.department;
+            TicketToEdit.Developers = entity.Developers;
+            _ticketmanager.SaveChanges();
+            return NoContent();
+
+        }
+
+        [HttpPost]
+        public ActionResult Add(Ticket entity)
+        {
+            _ticketmanager.AddTicket(entity);
+            _ticketmanager.SaveChanges();
+            return CreatedAtAction(actionName: "GetById",routeValues: new {id=entity.Id}, "The entity has been added successfully");
+        }
     }
 }
