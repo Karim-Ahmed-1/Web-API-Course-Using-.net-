@@ -11,12 +11,16 @@ public class TicketsRepo : ITicketsRepo
     }
     public void AddTicket(Ticket entity)
     {
-        _context.Set<Ticket>().Add(entity);   
+        _context.Set<Ticket>().Add(entity);
+        SaveChanges();
+
     }
 
     public void Delete(Ticket entity)
     {
         _context.Set<Ticket>().Remove(entity);
+        SaveChanges();
+
 
     }
 
@@ -37,6 +41,15 @@ public class TicketsRepo : ITicketsRepo
 
     public void Update(Ticket entity)
     {
-        
+        Ticket? TicketToEdit = GetByID(entity.Id);
+        if (TicketToEdit != null)
+        {
+            TicketToEdit.Title = entity.Title;
+            TicketToEdit.Description = entity.Title;
+            TicketToEdit.department = entity.department;
+            TicketToEdit.Developers = entity.Developers;
+
+            SaveChanges();
+        }
     }
 }

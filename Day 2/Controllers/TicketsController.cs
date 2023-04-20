@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 
+
 namespace Day_2.Controllers
 {
     [Route("api/[controller]")]
@@ -36,31 +37,29 @@ namespace Day_2.Controllers
         public ActionResult Delete(Ticket entity)
         {
             _ticketmanager.Delete(entity);
-            _ticketmanager.SaveChanges();
+            
             return NoContent();
+        }
+
+
+        [HttpPost]
+        public ActionResult Add(Ticket entity)
+        {
+            _ticketmanager.AddTicket(entity);
+            return CreatedAtAction(actionName: nameof(GetById), routeValues: new { id = entity.Id }, new { message = "The entity has been added successfully" });
         }
 
         [HttpPut]
         public ActionResult Update(Ticket entity)
         {
             if (entity == null) { return BadRequest(); }
-            var TicketToEdit = _ticketmanager.GetByID(entity.Id);
-            if (TicketToEdit == null) { return NotFound(); }
-            TicketToEdit.Title = entity.Title;
-            TicketToEdit.Description = entity.Title;
-            TicketToEdit.department = entity.department;
-            TicketToEdit.Developers = entity.Developers;
-            _ticketmanager.SaveChanges();
+            _ticketmanager.Update(entity);
             return NoContent();
 
         }
 
-        [HttpPost]
-        public ActionResult Add(Ticket entity)
-        {
-            _ticketmanager.AddTicket(entity);
-            _ticketmanager.SaveChanges();
-            return CreatedAtAction(actionName: "GetById",routeValues: new {id=entity.Id}, "The entity has been added successfully");
-        }
+        
+
+
     }
 }
